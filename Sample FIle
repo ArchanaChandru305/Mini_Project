@@ -1,0 +1,6 @@
+Public static void main (String[] args)
+{
+
+System.ouut.println("My Sample file for GITHUB practice");
+
+}
